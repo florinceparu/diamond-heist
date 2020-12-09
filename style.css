@@ -1,0 +1,12 @@
+canvas {
+    border: 1px solid #000;
+}
+
+#title {
+    text-align: center;
+}
+
+#myCanvas {
+    width: 600px;
+    height: 400px;
+}
